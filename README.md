@@ -1,6 +1,8 @@
 <p align="center">
 	<img src="/assets/aryan diwan.png" alt="Banner">
 	<img width="100%"  src="https://www.digitalsolutionservices.com/img/services/website1.gif" alt="" />
+
+  <img align="center" src="/assets/coder.gif" width="40%"/>
 <!-- <a href="https://holopin.io/@aryan4505"> -->
     <!-- <img src="https://holopin.io/api/user/board?user=aryan4505"  -->
 <!-- </a> -->
@@ -21,7 +23,7 @@
 
 ## <p align="center">
 
-<h4 align="center"><samp>A Graphic Designer, Web developer and a Cyber-Security enthusiast </samp></h4></p>
+<h4 align="center"><samp>Graphic Designer | Web Developer </samp></h4></p>
 
 <div>
 <img align="right" src="/assets/coder.gif" width="40%"/>
@@ -31,7 +33,7 @@
 <!-- - 🧑🏽 <b>Graphic Designer Intern at Coders Bake (September 2022 - March 2023)</b><br>
 - ☁  <b>UI Designer Intern at Upedd.com (March 2023 - May 2023)</b><br>
 - 🕵🏻 <b>Graphic Designer Head at Ekomart.com (March 2023 - March 2024)</b><br> -->
-- 💬 <b>Web Development Intern at Codsoft (June 2023 - Present)</b><br>
+- 💬 <b>Web Development Intern at Codsoft (June 2024 - Present)</b><br>
 <!-- - 🤔 <b>I’m looking for help with how to excel in Cyber-Security</b><br> -->
 </div>
 
@@ -56,7 +58,10 @@
 <!-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=00599C)&nbsp; -->
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+<img align="right" src="/assets/tag 2.gif" width="40%"/>
+
 <!-- ![Php(Basic)](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp; -->
+
 ![HTML](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html)&nbsp;
 ![CSS](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css)&nbsp;
 
@@ -73,6 +78,7 @@
 <!-- ![Firebase(Basic)](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp; -->
 <!-- ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp; -->
 <!-- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; -->
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
@@ -89,6 +95,8 @@
 
 # 📈 Statistics 📈
 
+<p align="center">
+	<img src="/assets/statistics.png" alt="Banner"></p>
 <!-- <p align="center">
 <img src="https://discord.c99.nl/widget/theme-1/715079095930716172.png"/> &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryan4505&theme=algolia&layout=compact"/>
