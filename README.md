@@ -20,7 +20,7 @@
 
 ## <p align="center">
 
-<h4 align="center"><samp>Graphic Designer | Web Developer </samp></h4></p>
+<h4 align="center"><samp><b>Graphic Designer | Web Developer</b> </samp></h4></p>
 
 <div>
 <img align="right" src="/assets/coder.gif" width="40%"/>
