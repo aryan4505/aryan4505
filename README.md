@@ -52,10 +52,11 @@
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
+<img align="right" src="/assets/tag-2-unscreen.gif" width="40%"/>
+
 <!-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=00599C)&nbsp; -->
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-<img align="right" src="/assets/tag 2.gif" width="40%"/>
 
 <!-- ![Php(Basic)](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp; -->
 
