@@ -1,18 +1,14 @@
 <p align="center">
 	<img src="/assets/aryan diwan.png" alt="Banner">
+  <br>
   <h4 align="center"><samp>Graphic Designer | Web Developer </samp></h4></p>
+  <br>
 	<img width="100%"  src="https://www.digitalsolutionservices.com/img/services/website1.gif" alt="" />
 
-  <img align="center" src="/assets/coder.gif" width="40%"/>
-<!-- <a href="https://holopin.io/@aryan4505"> -->
-    <!-- <img src="https://holopin.io/api/user/board?user=aryan4505"  -->
-<!-- </a> -->
 </p>
 
 <p align="center">
-<!-- <a href="https://x.com/vaidik79">
-  <img align="left" alt="" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
-</a> -->
+
 <a href="https://www.linkedin.com/in/aryan-diwan-218556314/">
   <img align="left" alt="Aryan's Linkedin" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
