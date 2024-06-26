@@ -1,5 +1,6 @@
 <p align="center">
 	<img src="/assets/aryan diwan.png" alt="Banner">
+  <h4 align="center"><samp>Graphic Designer | Web Developer </samp></h4></p>
 	<img width="100%"  src="https://www.digitalsolutionservices.com/img/services/website1.gif" alt="" />
 
   <img align="center" src="/assets/coder.gif" width="40%"/>
