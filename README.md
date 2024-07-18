@@ -23,7 +23,7 @@
 <h4 align="center"><samp><b>UI/UX DESIGNER | WEB DEVELOPER</b> </samp></h4></p>
 
 <div>
-<img align="right" src="/assets/PERSON 3D .png" width="40%"/>
+<img align="right" src="/assets/PERSON 3D.png" width="40%"/>
   <br>
 
 <h3><b><samp>Experiences:</samp></b></h3>
