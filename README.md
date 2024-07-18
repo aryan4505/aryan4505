@@ -1,7 +1,7 @@
 <p align="center">
 	<img src="/assets/aryan diwan.png" alt="Banner">
   <br>
-  <h4 align="center"><samp>Graphic Designer | Web Developer </samp></h4></p>
+  <h4 align="center"><samp>UI/UX DESIGNER | WEB DEVELOPER </samp></h4></p>
   <br>
 	<img width="100%"  src="https://www.digitalsolutionservices.com/img/services/website1.gif" alt="" />
 
@@ -20,17 +20,18 @@
 
 ## <p align="center">
 
-<h4 align="center"><samp><b>Graphic Designer | Web Developer</b> </samp></h4></p>
+<h4 align="center"><samp><b>UI/UX DESIGNER | WEB DEVELOPER</b> </samp></h4></p>
 
 <div>
-<img align="right" src="/assets/coder.gif" width="40%"/>
+<img align="right" src="/assets/PERSON 3D .png" width="40%"/>
   <br>
 
 <h3><b><samp>Experiences:</samp></b></h3>
 <!-- - 🧑🏽 <b>Graphic Designer Intern at Coders Bake (September 2022 - March 2023)</b><br>
 - ☁  <b>UI Designer Intern at Upedd.com (March 2023 - May 2023)</b><br>
 - 🕵🏻 <b>Graphic Designer Head at Ekomart.com (March 2023 - March 2024)</b><br> -->
-- 💬 <b>Web Development Intern at Codsoft (June 2024 - Present)</b><br>
+- 💬 <b>Web Development Intern at Oasis Infobyte (June 2024 - July 2024)</b><br>
+- 💬 <b>Web Development Intern at Codsoft (June 2024 - July 2024)</b><br>
 <!-- - 🤔 <b>I’m looking for help with how to excel in Cyber-Security</b><br> -->
 </div>
 
@@ -47,8 +48,9 @@
 
 ### 💻 &nbsp;Languages:
 
-<!-- ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=00599C)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; -->
+<!-- ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=00599C)&nbsp; -->
+
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
@@ -56,12 +58,11 @@
 
 <!-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=00599C)&nbsp; -->
 
+![HTML](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html)&nbsp;
+![CSS](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 <!-- ![Php(Basic)](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp; -->
-
-![HTML](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html)&nbsp;
-![CSS](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css)&nbsp;
 
 ### 🚀 &nbsp;Technologies:
 
@@ -78,7 +79,6 @@
 <!-- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; -->
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
 <!-- ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp; -->
 <!-- ![Hardhat](https://img.shields.io/badge/-Hardhat-05122A?style=flat&logo=hardhat)&nbsp; -->
@@ -86,6 +86,11 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 
 <!-- ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp; -->
+
+### 🚀 &nbsp;OS:
+
+![Windows](https://shields.io/badge/Windows--9cf?logo=Windows&style=social)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 
 <p  align="center">
 <img src="/assets/line.gif">             
