@@ -1,7 +1,7 @@
 <p align="center">
-	<img src="/assets/github Banner.png" alt="Banner">
+	<img src="/assets/github banner.jpg" alt="Banner">
   <br>
-  <h4 align="center"><samp>Android Developer</samp></h4></p>
+  <h2 align="center"><samp>Android Developer</samp></h2></p>
   <br>
 	<img width="100%"  src="https://www.digitalsolutionservices.com/img/services/website1.gif" alt="" />
 
@@ -52,7 +52,7 @@
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)&nbsp;
 
-![Firebase(Basic)](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Firebase(Basic)](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 
