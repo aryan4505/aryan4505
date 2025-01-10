@@ -20,7 +20,7 @@
 
 ## <p align="center">
 
-<h4 align="center"><samp><b>Android Developer</b> </samp></h4></p>
+<h4 align="center"><samp><b>"I am a passionate Android developer skilled in Kotlin, Jetpack Compose, and Firebase, with hands-on experience building different apps. I'm eager to leverage my skills and creativity to contribute to innovative Android projects and further grow in this field."</b> </samp></h4></p>
 
 <div>
 <img align="right" src="/assets/PERSON 3D.png" width="40%"/>
