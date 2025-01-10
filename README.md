@@ -51,9 +51,7 @@
 <!-- ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=00599C)&nbsp; -->
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)&nbsp;
-
 ![Firebase(Basic)](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
-
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack-Compose-blue)&nbsp;
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
