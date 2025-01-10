@@ -1,7 +1,7 @@
 <p align="center">
-	<img src="/assets/aryan diwan.png" alt="Banner">
+	<img src="/assets/github Banner.png" alt="Banner">
   <br>
-  <h4 align="center"><samp>UI/UX DESIGNER | WEB DEVELOPER </samp></h4></p>
+  <h4 align="center"><samp>Android Developer</samp></h4></p>
   <br>
 	<img width="100%"  src="https://www.digitalsolutionservices.com/img/services/website1.gif" alt="" />
 
@@ -20,7 +20,7 @@
 
 ## <p align="center">
 
-<h4 align="center"><samp><b>UI/UX DESIGNER | WEB DEVELOPER</b> </samp></h4></p>
+<h4 align="center"><samp><b>Android Developer</b> </samp></h4></p>
 
 <div>
 <img align="right" src="/assets/PERSON 3D.png" width="40%"/>
@@ -30,8 +30,8 @@
 <!-- - 🧑🏽 <b>Graphic Designer Intern at Coders Bake (September 2022 - March 2023)</b><br>
 - ☁  <b>UI Designer Intern at Upedd.com (March 2023 - May 2023)</b><br>
 - 🕵🏻 <b>Graphic Designer Head at Ekomart.com (March 2023 - March 2024)</b><br> -->
-- 💬 <b>Web Development Intern at Oasis Infobyte (June 2024 - July 2024)</b><br>
-- 💬 <b>Web Development Intern at Codsoft (June 2024 - July 2024)</b><br>
+- 💬 <b>Android Development Intern at Oasis Infobyte (May 2024 - July 2024)</b><br>
+- 💬 <b>Web Development Intern at Codsoft (Aug 2023 - Aug 2024)</b><br>
 <!-- - 🤔 <b>I’m looking for help with how to excel in Cyber-Security</b><br> -->
 </div>
 
@@ -49,6 +49,10 @@
 ### 💻 &nbsp;Languages:
 
 <!-- ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=00599C)&nbsp; -->
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)&nbsp;
+
+![Firebase(Basic)](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 
@@ -74,7 +78,6 @@
 <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp; -->
 <!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; -->
 
-<!-- ![Firebase(Basic)](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp; -->
 <!-- ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp; -->
 <!-- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; -->
 
@@ -82,8 +85,6 @@
 
 <!-- ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp; -->
 <!-- ![Hardhat](https://img.shields.io/badge/-Hardhat-05122A?style=flat&logo=hardhat)&nbsp; -->
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 
 <!-- ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp; -->
 
