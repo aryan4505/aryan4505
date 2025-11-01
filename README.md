@@ -20,19 +20,13 @@
 
 ## <p align="center">
 
-<h4 align="center"><samp><b>"I am a passionate Android developer skilled in Kotlin, Jetpack Compose, and Firebase, with hands-on experience building different apps. I'm eager to leverage my skills and creativity to contribute to innovative Android projects and further grow in this field."</b> </samp></h4></p>
+<h4 align="center"><samp><b>"Aspiring Android Developer | Java | Kotlin | Kotlin Multiplatform | Jetpack Compose | Firebase"</b> </samp></h4></p>
 
 <div>
 <img align="right" src="/assets/PERSON 3D.png" width="40%"/>
   <br>
 
-<h3><b><samp>Experiences:</samp></b></h3>
-<!-- - 🧑🏽 <b>Graphic Designer Intern at Coders Bake (September 2022 - March 2023)</b><br>
-- ☁  <b>UI Designer Intern at Upedd.com (March 2023 - May 2023)</b><br>
-- 🕵🏻 <b>Graphic Designer Head at Ekomart.com (March 2023 - March 2024)</b><br> -->
-- 💬 <b>Android Development Intern at Oasis Infobyte (May 2024 - July 2024)</b><br>
-- 💬 <b>Web Development Intern at Codsoft (Aug 2023 - Aug 2024)</b><br>
-<!-- - 🤔 <b>I’m looking for help with how to excel in Cyber-Security</b><br> -->
+
 </div>
 
 <p align="center">
@@ -51,6 +45,7 @@
 <!-- ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=00599C)&nbsp; -->
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=00599C)&nbsp; 
 ![Firebase(Basic)](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack-Compose-blue)&nbsp;
 
@@ -60,7 +55,6 @@
 
 <img align="right" src="/assets/tag-2-unscreen.gif" width="40%"/>
 
-<!-- ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=00599C)&nbsp; -->
 
 ![HTML](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html)&nbsp;
 ![CSS](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css)&nbsp;
@@ -92,6 +86,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)&nbsp;
 ![Intelli J Idea](https://img.shields.io/badge/Intellij%20Idea-000?logo=intellij-idea&style=for-the-badge)&nbsp;
 ![Vs Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)&nbsp;
+![XCode](https://img.shields.io/badge/Xcode-26.0-blue?logo=Xcode&logoColor=white)&nbsp;
 
 
 ### 🚀 &nbsp;OS:
