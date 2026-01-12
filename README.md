@@ -20,7 +20,7 @@
 
 ## <p align="center">
 
-<h4 align="center"><samp><b>"Aspiring Android Developer | Java | Kotlin | Kotlin Multiplatform | Jetpack Compose | Firebase"</b> </samp></h4></p>
+<h4 align="center"><samp><b>"Aspiring Android Developer | Java | Kotlin | Kotlin Multiplatform | Jetpack Compose"</b> </samp></h4></p>
 
 <div>
 <img align="right" src="/assets/PERSON 3D.png" width="40%"/>
@@ -42,45 +42,22 @@
 
 ### 💻 &nbsp;Languages:
 
-<!-- ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=00599C)&nbsp; -->
-
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=00599C)&nbsp; 
-![Firebase(Basic)](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
-![Jetpack Compose](https://img.shields.io/badge/Jetpack-Compose-blue)&nbsp;
-
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+### 💻 &nbsp;Frameworks:
+![Jetpack Compose](https://img.shields.io/badge/Jetpack-Compose-blue)&nbsp;
 
 <img align="right" src="/assets/tag-2-unscreen.gif" width="40%"/>
 
 
-![HTML](https://img.shields.io/badge/-Html-05122A?style=flat&logo=html)&nbsp;
-![CSS](https://img.shields.io/badge/-Css-05122A?style=flat&logo=css)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-
 <!-- ![Php(Basic)](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp; -->
 
-### 🚀 &nbsp;Technologies:
-
-<!-- ![ReactJs](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; -->
-<!-- ![Node.js(Basic)](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp; -->
-
-<!-- ![MySql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;  -->
-
-<!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp; -->
-<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp; -->
-
-<!-- ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp; -->
-<!-- ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp; -->
+### 🚀 &nbsp;Version Control:
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-<!-- ![Solidity](https://img.shields.io/badge/-Solidity-05122A?style=flat&logo=solidity)&nbsp; -->
-<!-- ![Hardhat](https://img.shields.io/badge/-Hardhat-05122A?style=flat&logo=hardhat)&nbsp; -->
-
-<!-- ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-05122A?style=flat&logo=tailwindcss)&nbsp; -->
 
 ### 🚀 &nbsp;Tools/IDE:
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)&nbsp;
@@ -93,6 +70,7 @@
 
 ![Windows](https://shields.io/badge/Windows--9cf?logo=Windows&style=social)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Mac OS](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social)&nbsp;
 
 <p  align="center">
 <img src="/assets/line.gif">             
