@@ -3,7 +3,7 @@
   <br>
   <h2 align="center"><samp>Android Developer</samp></h2></p>
   <br>
-	<img width="100%"  src="https://www.digitalsolutionservices.com/img/services/website1.gif" alt="" />
+
 
 </p>
 
